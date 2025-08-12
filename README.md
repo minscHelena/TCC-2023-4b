@@ -1,4 +1,4 @@
-#Projeto de Conclusão de Curso do Ensino Médio Técnico Integrado em Informática - CEEP Cascavel - PR, 2023
+# Projeto de Conclusão de Curso do Ensino Médio Técnico Integrado em Informática - CEEP Cascavel - PR, 2023
 
 Projeto desenvolvido como requisito poara conslusão e colação de grau para o curso técnico em Informática.
 - Para aprovação do projeto, deveria ser cumpridas os sequintes requisitos:
